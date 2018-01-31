@@ -1,0 +1,39 @@
+{
+  "produto": [
+    {
+      "nome": "Heineken",
+      "preco": 10,
+      "disponibilidade": false
+    },
+    {
+      "nome": "Budweiser",
+      "preco": 10,
+      "disponibilidade": true
+    },
+    {
+      "nome": "Brahma",
+      "preco": 7,
+      "disponibilidade": false
+    },
+    {
+      "nome": "Eisenbahn",
+      "preco": 11,
+      "disponibilidade": true
+    },
+    {
+      "nome": "Batata frita",
+      "preco": 15,
+      "disponibilidade": true
+    },
+    {
+      "nome": "Batata recheada",
+      "preco": 19,
+      "disponibilidade": false
+    },
+    {
+      "nome": "Bolinho de bacalhau",
+      "preco": 19,
+      "disponibilidade": true
+    }
+  ]
+}
